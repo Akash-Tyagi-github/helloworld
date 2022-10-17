@@ -1,2 +1,3 @@
 # helloworld
 fakerepo
+yes fakerepo
